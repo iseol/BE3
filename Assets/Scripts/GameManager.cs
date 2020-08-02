@@ -7,8 +7,10 @@ public class GameManager : MonoBehaviour
     public TalkManager talkManager;
     public QuestManager questManager;
     public Animator talkPanel;
-    public Text talkText;
+    public Animator portraitAnim;
+    public TypeEffect talk;
     public Image portraitImg; // 직접적으로 나타나는 초상화 이미지
+    public Sprite prevPortrait;
     public GameObject scanObject;
     public bool isAction = false; // UI가 나타났는지 여부
     public int talkIndex;
@@ -26,8 +28,21 @@ public class GameManager : MonoBehaviour
     }
     void Talk(int id, bool isNpc)
     {
-        int questTalkIndex = questManager.GetQuestTalkIndex();
-        string talkData = talkManager.GetTalk(id + questTalkIndex, talkIndex);
+        int questTalkIndex;
+        string talkData;
+
+        if (talk.isAnimation)
+        {
+            talk.SetMsg("");
+            return;
+        }
+        else
+        {
+            questTalkIndex = questManager.GetQuestTalkIndex();
+            talkData = talkManager.GetTalk(id + questTalkIndex, talkIndex);
+        }
+
+
         if (talkData == null) // 대화 데이터가 더이상 없을 경우,
         {
             isAction = false; // 대화를 종료하고 움직임을 활성화
@@ -38,15 +53,21 @@ public class GameManager : MonoBehaviour
         
         if (isNpc)
         {
-            talkText.text = talkData.Split(':')[0]; // 대화 내용을 판넬에 띄웁니다.
+            talk.SetMsg(talkData.Split(':')[0]); // 대화 내용을 판넬에 띄웁니다.
 
             portraitImg.sprite = talkManager.GetPortrait(id, int.Parse(talkData.Split(':')[1])); // 대화 내용에 따른 표정 변화를 불러옵니다.
             portraitImg.color = new Color(1, 1, 1, 1); // 초상화 활성화
+            if (prevPortrait != portraitImg.sprite)
+            {
+                portraitAnim.SetTrigger("doEffect");
+                prevPortrait = portraitImg.sprite;
+            }
+            
             
         }
         else
         {
-            talkText.text = talkData;
+            talk.SetMsg(talkData);
             portraitImg.color = new Color(1, 1, 1, 0); // 초상화 비활성화
         }
 
