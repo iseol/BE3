@@ -1,0 +1,1240 @@
+fileFormatVersion: 2
+guid: d4f53eb89d545a641941315da704efd7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5710185480788107502
+    second: Unity_Total_0
+  - first:
+      213: -6471200565363841692
+    second: Unity_Total_1
+  - first:
+      213: 2530794983226761039
+    second: Unity_Total_2
+  - first:
+      213: 6107479471166627208
+    second: Unity_Total_3
+  - first:
+      213: -6092881417291183653
+    second: Unity_Total_4
+  - first:
+      213: 969840749181334326
+    second: Unity_Total_5
+  - first:
+      213: 8128620661156730979
+    second: Unity_Total_6
+  - first:
+      213: 6389513699175347195
+    second: Unity_Total_7
+  - first:
+      213: -5169173152247793991
+    second: Unity_Total_8
+  - first:
+      213: -4730476394837474725
+    second: Unity_Total_9
+  - first:
+      213: 3681122442118550541
+    second: Unity_Total_10
+  - first:
+      213: 5415705940744561718
+    second: Unity_Total_11
+  - first:
+      213: -9049412862246259031
+    second: Unity_Total_12
+  - first:
+      213: -7469072007338084641
+    second: Unity_Total_13
+  - first:
+      213: 7122320711010075670
+    second: Unity_Total_14
+  - first:
+      213: 7820036225909909293
+    second: Unity_Total_15
+  - first:
+      213: 8845524154021017795
+    second: Unity_Total_16
+  - first:
+      213: 9185598403306101452
+    second: Unity_Total_17
+  - first:
+      213: -260509061452099087
+    second: Unity_Total_18
+  - first:
+      213: -8868745650858786331
+    second: Unity_Total_19
+  - first:
+      213: 4363633146080011503
+    second: Unity_Total_20
+  - first:
+      213: 1407142116297543257
+    second: Unity_Total_21
+  - first:
+      213: -2645583673991093291
+    second: Unity_Total_22
+  - first:
+      213: 4467068965183724856
+    second: Unity_Total_23
+  - first:
+      213: -3742541375360365901
+    second: Unity_Total_24
+  - first:
+      213: 4665102277954871449
+    second: Unity_Total_25
+  - first:
+      213: -6343090934669769472
+    second: Unity_Total_26
+  - first:
+      213: -278833207137136389
+    second: Unity_Total_27
+  - first:
+      213: -4550510112032113684
+    second: Unity_Total_28
+  - first:
+      213: -7195857219196117165
+    second: Unity_Total_29
+  - first:
+      213: 687841166402244278
+    second: Unity_Total_30
+  - first:
+      213: 7747521981604104666
+    second: Unity_Total_31
+  - first:
+      213: 5004660289656253879
+    second: Unity_Total_32
+  - first:
+      213: -178098438846924096
+    second: Unity_Total_33
+  - first:
+      213: -3888671152799503634
+    second: Unity_Total_34
+  - first:
+      213: -2247241433907641590
+    second: Unity_Total_35
+  - first:
+      213: -1283947448760702686
+    second: Unity_Total_36
+  - first:
+      213: 4096421797609485894
+    second: Unity_Total_37
+  - first:
+      213: -5719068629478805993
+    second: Unity_Total_38
+  - first:
+      213: 5909788076698272099
+    second: Unity_Total_39
+  - first:
+      213: -5840791259172913533
+    second: Unity_Total_40
+  - first:
+      213: 1285399720322423488
+    second: Unity_Total_41
+  - first:
+      213: 2666047765004447131
+    second: Unity_Total_42
+  - first:
+      213: -1069651330361946853
+    second: Unity_Total_43
+  - first:
+      213: -6339654297120941722
+    second: Unity_Total_44
+  - first:
+      213: -2956876172090194306
+    second: Unity_Total_45
+  - first:
+      213: 8446930541770316629
+    second: Unity_Total_46
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unity_Total_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8b1976c979e3049ac7e0d14b0ab88a
+      internalID: -5710185480788107502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31802d63796e6c04794459fd5c667b94
+      internalID: -6471200565363841692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59e945567c855a4890078849648766f
+      internalID: 2530794983226761039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f178997f5fdde2e43b4be96cb82c00a1
+      internalID: 6107479471166627208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b83c7abac8cdf43aae9574e8f7f0e3
+      internalID: -6092881417291183653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e615e878ec25e384cb860d3c69b8acae
+      internalID: 969840749181334326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95acc780a1b215c4589a26e43d4be242
+      internalID: 8128620661156730979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3695b7232b355c04683bb111e61bc1cd
+      internalID: 6389513699175347195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94186ee0b27b7f2449eb39618e6dc808
+      internalID: -5169173152247793991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32e008cfd2875b4ba4bee86bf4f1d9b
+      internalID: -4730476394837474725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3374c73674facc9499d95845a4b5b8eb
+      internalID: 3681122442118550541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7ad8d9b496b2c42ae9c1bd4531aade
+      internalID: 5415705940744561718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92a535e64fc95746a0e224fc2c03289
+      internalID: -9049412862246259031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3445cf79babd74e90fbc6cfa12dd62
+      internalID: -7469072007338084641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb2f430f9caeb54f9d2d467c7f14f78
+      internalID: 7122320711010075670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ddd6d3da765974cb996bb4986d7045
+      internalID: 7820036225909909293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5635d998dfed647afe71d329f790b6
+      internalID: 8845524154021017795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c0ce67bc3eb664e81499def06b8b6b
+      internalID: 9185598403306101452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82e941fa2aebbc4397cb01e0a54090f
+      internalID: -260509061452099087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b146b70e024e2f47b0de679e28c61da
+      internalID: -8868745650858786331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec918f9b566666a45b545cacda002154
+      internalID: 4363633146080011503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75935f93accd70c449ef116252d0c80b
+      internalID: 1407142116297543257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c03d035128917841a3397f965d6c48a
+      internalID: -2645583673991093291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e611c8c8acbc841a104cb9dcb670e9
+      internalID: 4467068965183724856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ecb4ec452e577418e61e9f1f18262f
+      internalID: -3742541375360365901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3793be766a721ca4cb658c4fba07700c
+      internalID: 4665102277954871449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d400a4b5f05581478a3efadfedf57a9
+      internalID: -6343090934669769472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5807e8fc3e9842544921f7788ff352e6
+      internalID: -278833207137136389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abf3583ae989cb479439f1af24bfa42
+      internalID: -4550510112032113684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c004af19f83f3644285564c7ef5477cd
+      internalID: -7195857219196117165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909f8b05b325b31478c3c2c1e3f8626a
+      internalID: 687841166402244278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2674c52a7b260242be7b2f611094a2d
+      internalID: 7747521981604104666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6124e8d44516bb440a5f7452c80066ab
+      internalID: 5004660289656253879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aafc5b913419f144a378acc32eef84b
+      internalID: -178098438846924096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9bdc4ae4643264fbd5305e019fd3df
+      internalID: -3888671152799503634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22d87608d178d7459f243c7986b6354
+      internalID: -2247241433907641590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7715d50b9be81499cb5c93d3b4db71
+      internalID: -1283947448760702686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f1970027c445948bf036586d2942dd
+      internalID: 4096421797609485894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c856f82051d9e8a4ba8cf7560c3bc5f3
+      internalID: -5719068629478805993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3843b0ac78b3858419d3e9c474411f9d
+      internalID: 5909788076698272099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_40
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3d0dccc3ae1ba4fb04103cc3d2ef3e
+      internalID: -5840791259172913533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e44338066ce8da4d9ba0e1966dfe284
+      internalID: 1285399720322423488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b46e92f37abed34bb79154200c8a83a
+      internalID: 2666047765004447131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809bf3db31a458a469f6e3dc8ad1d468
+      internalID: -1069651330361946853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0347c272a266e42489773fcfbd863c84
+      internalID: -6339654297120941722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2425c08a555be4f8773d2a841ea859
+      internalID: -2956876172090194306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78bbcdb6cdc7ee49808238b0916d918
+      internalID: 8446930541770316629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 86936ecba07c641418974a00b0548f11
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

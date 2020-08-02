@@ -5,27 +5,34 @@ using UnityEngine.UI;
 public class GameManager : MonoBehaviour
 {
     public TalkManager talkManager;
+    public QuestManager questManager;
+    public Animator talkPanel;
     public Text talkText;
     public Image portraitImg; // 직접적으로 나타나는 초상화 이미지
     public GameObject scanObject;
-    public GameObject talkPanel;
     public bool isAction = false; // UI가 나타났는지 여부
     public int talkIndex;
+    void Start()
+    {
+        Debug.Log(questManager.CheckQuest());
+    }
     public void Action(GameObject scanObj)
     {
         scanObject = scanObj; // scanObject 변수에 할당
         ObjData objData = scanObject.GetComponent<ObjData>();
-        Talk(objData.id, objData.isNpc); 
+        Talk(objData.id, objData.isNpc);
 
-        talkPanel.SetActive(isAction); // 대화 판넬 활성화
+        talkPanel.SetBool("isShow", isAction);
     }
     void Talk(int id, bool isNpc)
     {
-        string talkData = talkManager.GetTalk(id, talkIndex); // TalkManager.cs (line 25)
+        int questTalkIndex = questManager.GetQuestTalkIndex();
+        string talkData = talkManager.GetTalk(id + questTalkIndex, talkIndex);
         if (talkData == null) // 대화 데이터가 더이상 없을 경우,
         {
             isAction = false; // 대화를 종료하고 움직임을 활성화
             talkIndex = 0; // 인덱스 초기화
+            Debug.Log(questManager.CheckQuest(id));
             return;
         }
         
