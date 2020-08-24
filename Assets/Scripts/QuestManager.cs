@@ -12,7 +12,6 @@ public class QuestManager : MonoBehaviour
     {
         questList = new Dictionary<int, QuestData>();
         GenerateData();
-        
     }
 
     void GenerateData()
@@ -55,7 +54,7 @@ public class QuestManager : MonoBehaviour
         questId += 10;
         questActionIndex = 0;
     }
-    void ControlObject()
+    public void ControlObject()
     {
         switch (questId) {
             case 10:
@@ -65,7 +64,11 @@ public class QuestManager : MonoBehaviour
                 }
                 break;
             case 20:
-                if (questActionIndex == 1)
+                if (questActionIndex == 0)
+                {
+                    questObject[0].SetActive(true);
+                }
+                else if (questActionIndex == 1)
                 {
                     questObject[0].SetActive(false);
                 }
